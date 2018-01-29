@@ -1,5 +1,5 @@
 style.css
 body {
-	background: url(images/GettinTossedHeroImage.jpg);
+	background-image: url("images/GettinTossedHeroImage.jpg");
 	background-size: cover;
 }
