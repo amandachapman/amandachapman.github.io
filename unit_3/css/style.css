@@ -3,11 +3,11 @@ h1 {
 }
 body {
 	background-color: #7b90ad;
-	font-family: "Trade Gothic", sans-serif;
-	font-size: 16;
+	font-family: Calibre, sans-serif;
+	font-size: 26px;
 	color: white;
 	text-align: center;
 	
 }
 #slogan {font-style: italic;}
-#footer {font-size: 12;}
+#footer {font-size: 12px;}
