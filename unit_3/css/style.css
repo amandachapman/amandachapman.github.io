@@ -11,8 +11,5 @@ body {
 }
 #slogan {font-style: italic;}
 
-footer {
-	padding: 10 px;
-	background-color: red;
-	font-size: 12 px;
-}
+#bottom {font-size: 12 px;}
+
