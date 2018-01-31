@@ -12,5 +12,6 @@ body {
 #slogan {font-style: italic;}
 
 footer {
+	background-color: ff;
 	font-size: 12 px;
 }
