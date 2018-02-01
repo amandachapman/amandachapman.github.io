@@ -8,7 +8,8 @@ body {
 h1 {
 	color:white;
 }
-#slogan {font-style: italic;}
+#slogan {font-style: italic;
+color: #ff0000;}
 
 ul {
 	text-align: center;
