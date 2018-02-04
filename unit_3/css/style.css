@@ -4,8 +4,9 @@ body {
 	color: white;
 	text-align: center;
 }
-p {	font-size: 14px;
+p {	font-size: 32px;
 	line-height: 1.5em;
+	margin: 2em;
 }
 	
 }
