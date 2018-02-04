@@ -3,8 +3,10 @@ body {
 	font-family: Calibre, sans-serif;
 	color: white;
 	text-align: center;
-	font-size: 14px;
-	line-height: 28px;
+}
+p {	font-size: 14 px;
+	line-height: 28 px;
+}
 	
 }
 h1 {
