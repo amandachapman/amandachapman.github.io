@@ -4,8 +4,8 @@ body {
 	color: white;
 	text-align: center;
 }
-p {	font-size: 14 px;
-	line-height: 28 px;
+p {	font-size: 14px;
+	line-height: 1.5em;
 }
 	
 }
@@ -20,6 +20,6 @@ ul {
 	list-style-type: none;
 }
 #disclaimer {
-	font-size: 8 px;
+	font-size: 8px;
 }
 
