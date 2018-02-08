@@ -1,7 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);
 body {
 	background-color: #7b90ad;
-	font-family: Calibre, serif;
 	color: white;
 	text-align: center;
 }
@@ -13,8 +12,10 @@ p {	font-family: Roboto;
 h1 {
 	color: white;
 }
-#slogan {font-style: italic;
-color: #ff0000;}
+#slogan {
+	font-family: Roboto;
+	font-style: italic;
+    color: #ff0000;}
 
 ul {
 	text-align: center;
