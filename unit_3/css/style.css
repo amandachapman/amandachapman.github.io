@@ -4,7 +4,7 @@ body {
 	background-color: #142e59;
 	color: white;
 	text-align: center;
-	font-family: Roboto;
+	font-family: 'Roboto';
 	font-size: 20px;
 	line-height: 1.5em;
 	margin: 2em;
@@ -13,15 +13,13 @@ h1 {
 	color: white;
 	font-family: 'Oswald'; sans-serif;
 }
-ul {
-	font-family: 'Oswald'; sans-serif;
-}
 #slogan {
 	font-family: 'Roboto';
 	font-style: italic;
     color: #ff0000;}
 
 ul {
+	font-family: 'Oswald';
 	text-align: center;
 	list-style-type: none;
 }
