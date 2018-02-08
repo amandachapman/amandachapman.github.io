@@ -13,6 +13,9 @@ h1 {
 	color: white;
 	font-family: 'Oswald'; sans-serif;
 }
+ul {
+	font-family: 'Oswald'; sans-serif;
+}
 #slogan {
 	font-family: 'Roboto';
 	font-style: italic;
