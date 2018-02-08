@@ -11,10 +11,10 @@ body {
 }
 h1 {
 	color: white;
-	font-family: Oswald
+	font-family: 'Oswald'; sans-serif;
 }
 #slogan {
-	font-family: Roboto;
+	font-family: 'Roboto';
 	font-style: italic;
     color: #ff0000;}
 
