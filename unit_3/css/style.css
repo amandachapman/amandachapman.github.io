@@ -1,17 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 body {
 	background-color: #7b90ad;
-	font-family: Calibre, sans-serif;
+	font-family: Calibre, serif;
 	color: white;
 	text-align: center;
 }
-p {	font-size: 32px;
+p {	font-family: Roboto;
+	font-size: 32px;
 	line-height: 1.5em;
 	margin: 2em;
 }
-	
-}
 h1 {
-	color:white;
+	color: white;
 }
 #slogan {font-style: italic;
 color: #ff0000;}
