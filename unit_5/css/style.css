@@ -16,6 +16,9 @@ h1 {
 	color: white;
 	font-family: 'Oswald'; sans-serif;
 }
+header {
+	align-left;
+}
 #slogan {
 	font-family: 'Roboto';
 	font-style: italic;
@@ -25,6 +28,11 @@ ul {
 	font-family: 'Oswald';
 	text-align: center;
 	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li {
+	display: inline;
 }
 footer {
 	font-size: 8px;
