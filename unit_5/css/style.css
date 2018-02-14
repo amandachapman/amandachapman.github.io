@@ -21,18 +21,18 @@ header {
 	padding: 20px;
 	align-left;
 }
-#slogan {
-	background-color: #FFE2B8;
-	border: 1px black solid;
-	padding: 20px;
-	font-family: 'Roboto';
-	font-style: italic;}
 nav {
 	background-color: E8C66A
 	border: 1px black solid;
 	padding: 20px;
 	display: inline;
 }
+#slogan {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+	font-family: 'Roboto';
+	font-style: italic;}
 #team
 {
 	background-color: #FFc675;
