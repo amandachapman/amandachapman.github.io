@@ -32,6 +32,8 @@ nav a {
 	display: block;
 	float: right;
 	padding: 30px;
+	margin: 1.8em;
+	display: inline-block;
 }
 .clear:both {
 	visibility: hidden;
@@ -43,8 +45,6 @@ nav a {
 }
 nav a:hover {
 	background-color: #aaaaaa;
-	margin: 1.8em;
-	display: inline-block;
 	}
 #slogan {
 	background-color: #FFE2B8;
