@@ -33,7 +33,7 @@ nav a {
 	float: right;
 	padding: 20px;
 }
-clearfix: after {
+.clearfix: after {
 	visibility: hidden;
 	display: block;
 	content: " ";
